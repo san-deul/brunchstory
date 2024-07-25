@@ -24,13 +24,17 @@
 
   1. 가입 직후 프로필 편집 변경직전에는 가입시 입력한 이름과
 이메일, 기본 프로필이미지가 설정되어 있습니다. <br>
+![첫가입시_프로필](https://github.com/user-attachments/assets/faa05f52-9ab9-4065-9d52-ecb515420bd1)<br>
+
 2. 유효성 검사를 통해 잘못된 정보 전달을 방지했습니다. <br>
+![readme유효성검사1](https://github.com/user-attachments/assets/b11c4d02-ded7-42da-b606-5899544b70d1)<br>
+![readme유효성검사3](https://github.com/user-attachments/assets/5587918d-f5eb-4edc-a705-8f2db17170a2)<br>
 3. 프로필 변경 후에 NAV의 프로필부분에 바뀐 정보가 바로 
 업데이트 되도록 구현했습니다. <br>
 4. 수정페이지에서는 DB에 저장되어있는 프로필정보를 
 불러오도록 구현했습니다. <br>
 
-![첫가입시_프로필](https://github.com/user-attachments/assets/faa05f52-9ab9-4065-9d52-ecb515420bd1)
+
 
   
 </html>
