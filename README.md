@@ -30,7 +30,8 @@
 4. 수정페이지에서는 DB에 저장되어있는 프로필정보를 
 불러오도록 구현했습니다. <br>
 
-https://github.com/user-attachments/assets/faa05f52-9ab9-4065-9d52-ecb515420bd1
+![첫가입시_프로필](https://github.com/user-attachments/assets/faa05f52-9ab9-4065-9d52-ecb515420bd1)
+
   
 </html>
 
